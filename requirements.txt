@@ -1,0 +1,5 @@
+language-tool-python
+textstat
+transformers
+torch
+scikit-learn
